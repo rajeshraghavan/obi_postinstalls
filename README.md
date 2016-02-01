@@ -1,4 +1,4 @@
-# ob_pkgs_install
+# obi_postinstalls
 
 #### Table of Contents
 
@@ -43,7 +43,7 @@ management, etc.) this is the time to mention it.
 If your module requires anything extra before setting up (pluginsync enabled,
 etc.), mention it here.
 
-### Beginning with ob_pkgs_install
+### Beginning with obi_postinstalls
 
 The very basic steps needed for a user to get the module up and running.
 
